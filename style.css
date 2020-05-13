@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin: 50px auto auto 30px;
+
+}
+
+button {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+button.delete {
+    margin: 30px auto auto 30px;
+}
